@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kuliner Hits Surabaya</string>
+    <string name="nama_kuliner">Nama Kuliner</string>
+    <string name="gambar_kuliner">gambar kuliner</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="kuliner_hits_surabaya">Kuliner Hits Surabaya</string>
+    <string name="head">head</string>
+</resources>
